@@ -42,25 +42,6 @@ This course combines front-end development (HTML, CSS, JavaScript) with back-end
 4. Database CRUD: Implement a simple user or notes manager with create/read/update/delete backed by MySQL.
 5. Secure queries: Demonstrate prepared statements and discuss SQL injection prevention.
 
-## Project Structure (recommended)
-- index.php — main entry
-- assets/
-  - css/style.css
-  - js/app.js
-  - img/
-- src/
-  - db.php (database connection)
-  - controllers/
-  - models/
-  - views/
-- schema.sql — SQL to create tables and seed sample data
-- README.md — this file
-
-## Exercises & Assessment
-- Small tasks after each lab (e.g., add search, pagination, form editing)
-- Mini-project: build a task manager with user authentication (optional)
-- Deliverables: working project folder, SQL dump, short report describing schema and endpoints
-
 ## Best Practices Covered
 - Separation of concerns (HTML/CSS/JS/PHP)
 - Secure database access (use prepared statements)
